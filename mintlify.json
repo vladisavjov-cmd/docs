@@ -1,0 +1,21 @@
+{
+  "$schema": "https://mintlify.com/docs.json",
+  "name": "Structural Intelligence",
+  "theme": "mint",
+  "navigation": [
+    {
+      "group": "The SI Framework",
+      "pages": ["introduction", "presence-formula"]
+    },
+    {
+      "group": "External Resources",
+      "pages": ["papers-index"]
+    }
+  ],
+  "topbarLinks": [
+    {
+      "name": "Main GitHub",
+      "url": "https://github.com/vladisavjov-cmd/structural-intelligence"
+    }
+  ]
+}
